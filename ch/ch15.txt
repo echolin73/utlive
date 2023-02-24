@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 台视新闻 |  |  |
-https://www.youtube.com/watch?v=xL0ch83RAK8
+https://www.youtube.com/@TTV_NEWS/live
