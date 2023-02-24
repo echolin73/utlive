@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 NHK World |  |  |
-https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+https://www.youtube.com/@NHKWORLDJAPAN/live
