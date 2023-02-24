@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 镜新闻 |  |  |
-https://www.youtube.com/watch?v=5n0y6b0Q25o
+https://www.youtube.com/@mnews-tw/live
