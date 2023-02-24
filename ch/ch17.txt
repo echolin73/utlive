@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 中天新闻 |  |  |
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+https://www.youtube.com/@CtiTv/live
