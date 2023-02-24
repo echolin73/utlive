@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 三立Live |  |  |
-https://www.youtube.com/c/三立LIVE新聞/live
+https://www.youtube.com/@setnews/live
