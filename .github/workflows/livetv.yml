@@ -128,6 +128,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=2mCSYvcfhtc)
         EOL
+    - name: Get mnews.m3u8
+      run: |
+        touch ./mnews.m3u8
+        sudo cat >./mnews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=5n0y6b0Q25o)
+        EOL
     - name: Get gstv.m3u8
       run: |
         touch ./gstv.m3u8
@@ -316,7 +325,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
         $(yt-dlp --print urls https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live)
-        EOL
+        EOL    
     - name: Get newsmax.m3u8
       run: |
         touch ./newsmax.m3u8
