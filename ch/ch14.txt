@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 华视新闻 |  |  |
-https://www.youtube.com/watch?v=UkeLZMHNJpA
+https://www.youtube.com/@CtsTw/live
