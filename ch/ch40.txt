@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 新唐人亚太 |  |  |
-https://www.youtube.com/watch?v=WIhgU_mc05A
+https://www.youtube.com/c/NTDAPTV/live
