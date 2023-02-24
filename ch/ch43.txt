@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Taiwan+ |  |  |
-https://www.youtube.com/watch?v=dZp87qnWelE
+https://www.youtube.com/@TaiwanPlusLive/live
