@@ -283,6 +283,12 @@ jobs:
           chmod +x sh/ch41.sh
           ./sh/ch41.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch42.sh
+          ./sh/ch42.sh
+          
       - name: git add
         run: |
           git add -A
