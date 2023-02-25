@@ -117,7 +117,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(yt-dlp --print urls https://www.youtube.com/c/TVBSNEWS01/live)
+        $(yt-dlp --print urls https://www.youtube.com/@TVBSNEWS01/live)
         EOL
     - name: Get tvbsnews.m3u8
       run: |
