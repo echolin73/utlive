@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 TVBS NEWS |  |  |
-https://www.youtube.com/c/TVBSNEWS01/live
+https://www.youtube.com/@TVBSNEWS01/live
