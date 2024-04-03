@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-国会频道 |  |  |
-https://www.youtube.com/c/國會頻道/live
+国会频道2 |  |  |
+https://www.youtube.com//@parliamentarytv/live
